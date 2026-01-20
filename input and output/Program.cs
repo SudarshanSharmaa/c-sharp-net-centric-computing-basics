@@ -10,7 +10,7 @@ namespace input_and_output
     {
         static void Main(string[] args)
         {
-            int harry = 34;
+           // int harry = 34;
             string inp = "Harry";
             Console.WriteLine(inp);
             // Console.WriteLine("Hello World");
@@ -27,7 +27,7 @@ namespace input_and_output
             Console.WriteLine(c);
             Console.WriteLine(isGreat);
             Console.WriteLine(d);
-            Console.ReadLine();
+            Console.ReadLine();  
         }
     }
 }

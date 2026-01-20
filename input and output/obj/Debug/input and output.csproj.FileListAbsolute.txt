@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\C#\input and output\bin\Debug\input and output.exe.config
+C:\Users\User\OneDrive\Desktop\C#\input and output\bin\Debug\input and output.exe
+C:\Users\User\OneDrive\Desktop\C#\input and output\bin\Debug\input and output.pdb
+C:\Users\User\OneDrive\Desktop\C#\input and output\obj\Debug\input and output.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#\input and output\obj\Debug\input and output.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#\input and output\obj\Debug\input and output.exe
+C:\Users\User\OneDrive\Desktop\C#\input and output\obj\Debug\input and output.pdb
