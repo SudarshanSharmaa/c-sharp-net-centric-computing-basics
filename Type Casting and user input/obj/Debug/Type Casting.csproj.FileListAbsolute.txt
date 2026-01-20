@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\C#\Type Casting\bin\Debug\Type Casting.exe.config
+C:\Users\User\OneDrive\Desktop\C#\Type Casting\bin\Debug\Type Casting.exe
+C:\Users\User\OneDrive\Desktop\C#\Type Casting\bin\Debug\Type Casting.pdb
+C:\Users\User\OneDrive\Desktop\C#\Type Casting\obj\Debug\Type Casting.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#\Type Casting\obj\Debug\Type Casting.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#\Type Casting\obj\Debug\Type Casting.exe
+C:\Users\User\OneDrive\Desktop\C#\Type Casting\obj\Debug\Type Casting.pdb
