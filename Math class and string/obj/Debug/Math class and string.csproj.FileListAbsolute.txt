@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\C#\Math class and string\bin\Debug\Math class and string.exe.config
+C:\Users\User\OneDrive\Desktop\C#\Math class and string\bin\Debug\Math class and string.exe
+C:\Users\User\OneDrive\Desktop\C#\Math class and string\bin\Debug\Math class and string.pdb
+C:\Users\User\OneDrive\Desktop\C#\Math class and string\obj\Debug\Math class and string.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#\Math class and string\obj\Debug\Math class and string.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#\Math class and string\obj\Debug\Math class and string.exe
+C:\Users\User\OneDrive\Desktop\C#\Math class and string\obj\Debug\Math class and string.pdb
