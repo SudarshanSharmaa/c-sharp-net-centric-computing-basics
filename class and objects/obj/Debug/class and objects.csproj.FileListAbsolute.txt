@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\C#\class and objects\bin\Debug\class and objects.exe.config
+C:\Users\User\OneDrive\Desktop\C#\class and objects\bin\Debug\class and objects.exe
+C:\Users\User\OneDrive\Desktop\C#\class and objects\bin\Debug\class and objects.pdb
+C:\Users\User\OneDrive\Desktop\C#\class and objects\obj\Debug\class and objects.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\C#\class and objects\obj\Debug\class and objects.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\C#\class and objects\obj\Debug\class and objects.exe
+C:\Users\User\OneDrive\Desktop\C#\class and objects\obj\Debug\class and objects.pdb
